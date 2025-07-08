@@ -49,6 +49,9 @@ Welcome to **GulshanToken (GTKN)** — a personal ERC-20 token built from scratc
 
 -How to document and demonstrate blockchain projects professionally
 
+Check out the full [GTKN smart contract here](https://github.com/0xsherlocks/FUTURE_BC_02).
+
+
 **📎Author**
 **Gulshan Kumar**
 
@@ -59,3 +62,4 @@ Welcome to **GulshanToken (GTKN)** — a personal ERC-20 token built from scratc
 
 🟢 Feel free to fork, use, or reference this for your own learning.
 📬 DM me if you'd like help getting started with Solidity or Remix!
+
