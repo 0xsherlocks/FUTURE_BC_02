@@ -46,5 +46,11 @@ How to document and demonstrate blockchain projects professionally
 
 **📎Author**
 **Gulshan Raj**
+
 🌐 BSc (Hons) Forensic Science | Blockchain & Cyber Intern
+
 🔗 LinkedIn: www.linkedin.com/in/gulshan90
+
+
+🟢 Feel free to fork, use, or reference this for your own learning.
+📬 DM me if you'd like help getting started with Solidity or Remix!
