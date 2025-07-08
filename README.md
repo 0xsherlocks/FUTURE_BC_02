@@ -39,9 +39,13 @@ Welcome to **GulshanToken (GTKN)** — a personal ERC-20 token built from scratc
 
 **🧠 What I Learned**
 How ERC-20 tokens work under the hood
+
 How to write and test contracts in Remix
+
 How to use Ganache for local Ethereum simulation
+
 How MetaMask interacts with local chains
+
 How to document and demonstrate blockchain projects professionally
 
 **📎Author**
